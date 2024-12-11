@@ -1,0 +1,13 @@
+# Meeting on Discord 2024-11-12
+
+## Notes in the form of train-of-thought questions:
+- What can we do with the MMU?
+- Possibly see if different modalities have a shared embedding space?
+- Does this carry over between ground based and space based telescopes?
+- Can we use standard interp tools to explore this?
+- Can we do so directly on the data without first pretraining a foundation model?
+- Why would we _even want_ do do this?
+- How can we probe whether the embedding space is shared if we train a SAE?
+    - via downstream tasks?
+    - which downstream tasks?
+    - can we borrow from text world?
