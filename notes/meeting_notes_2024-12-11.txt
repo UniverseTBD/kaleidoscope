@@ -11,3 +11,4 @@
     - via downstream tasks?
     - which downstream tasks?
     - can we borrow from text world?
+- would it be worthwhile to train a "pythia" suite on the MMU?
